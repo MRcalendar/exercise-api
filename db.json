@@ -24,6 +24,18 @@
         "sellerId": 1,
         "startTime": "2022-02-05T16:00:00Z",
         "endTime": "2022-02-05T18:00:00Z"
+    },{
+        "id": 1,
+        "showroomId": 2,
+        "sellerId": 1,
+        "startTime": "2022-02-06T09:00:00Z",
+        "endTime": "2022-02-06T12:00:00Z"
+    },{
+        "id": 1,
+        "showroomId": 2,
+        "sellerId": 2,
+        "startTime": "2022-02-05T14:00:00Z",
+        "endTime": "2022-02-05T18:00:00Z"
     }
     ]
   }
